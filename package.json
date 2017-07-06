@@ -1,0 +1,28 @@
+{
+  "name": "tagged-templates-literals",
+  "version": "1.0.0",
+  "description": "Repository to fix what I study on Enki APP",
+  "main": "tagged-template-literals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tagged": "node ./tagged-template-literals.js",
+    "array": "node ./array.copyWithin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhinoandre/tagged-template-literals.git"
+  },
+  "keywords": [
+    "tagged",
+    "template",
+    "rest",
+    "operator"
+  ],
+  "author": "Rhino Andre <rhinoandre@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhinoandre/tagged-template-literals/issues"
+  },
+  "homepage": "https://github.com/rhinoandre/tagged-template-literals#readme",
+  "engines" : { "node" : ">=6" }
+}
